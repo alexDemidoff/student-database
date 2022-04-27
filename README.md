@@ -7,10 +7,17 @@ Dependancy Injection
 JPA
 
 The structure of the project:
+
 API Layer
+
  ⬇️ ⬆️
+ 
 Service Layer
+
  ⬇️ ⬆️
+ 
 Data Access Layer
+
  ⬇️ ⬆️
+ 
 Database
